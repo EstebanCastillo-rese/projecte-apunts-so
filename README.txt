@@ -24,3 +24,4 @@ COMANDES BÀSIQUES:
 ls
 - rm: eliminar fitxers
 
+rese
