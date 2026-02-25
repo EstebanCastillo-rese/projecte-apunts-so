@@ -1,1 +1,26 @@
-Els meus apunts de Sistemes Operatius - esteban
+
+
+
+
+TEMA 1: INTRODUCCIÓ A LINUX
+========================
+
+Data: [Data actual]
+Autor: [El teu nom]
+
+CONCEPTES CLAU:
+- Linux és un sistema operatiu de codi obert
+- Utilitza una estructura de directoris jeràrquica
+- Tot és un fitxer en Linux
+- Case sensitive: distingeix majúscules i minúscules
+
+COMANDES BÀSIQUES:
+- ls: llistar fitxers
+- cd: canviar directori
+- pwd: mostrar directori actual
+- mkdir: crear directori
+- cp: copiar fitxers
+- mv: moure/renombrar fitxers
+ls
+- rm: eliminar fitxers
+
