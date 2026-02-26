@@ -5,7 +5,7 @@
 ls meus apunts de Sistemes Operatius - esteban/rese
 
 ## Descripció 
-Aquest repositori conté l’essència dels sistemes Operatius de 1r ASIX
+Aquest repositori conté l’essència dels sistemes Operatius de 1r DAM
 
 ## Contingut 
 - Tema 1: Introducció a Linux 
