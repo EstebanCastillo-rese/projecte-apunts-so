@@ -15,3 +15,5 @@ COMANDA CHMOD:
 chmod 755 fitxer.txt
 chmod u+x script.sh
 chmod go-w document.txt
+
+pingo

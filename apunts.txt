@@ -17,5 +17,6 @@ COMANDES BÀSIQUES:
 - mkdir: crear directori
 - cp: copiar fitxers
 - mv: moure/renombrar fitxers
-ls
 - rm: eliminar fitxers
+
+fdfghdh
