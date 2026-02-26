@@ -10,7 +10,7 @@ Aquest repositori conté l’essència dels sistemes Operatius de 1r DAM
 ## Contingut 
 - Tema 1: Introducció a Linux 
 - Tema 2: Comandes bàsiques 
-- Tema 3: mama  
+- Tema 3: papa
 
 ## Autor [Esteban] 
 Curs: 1r DAM 
