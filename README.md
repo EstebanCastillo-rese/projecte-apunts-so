@@ -1,11 +1,10 @@
 
 
 
-
-ls meus apunts de Sistemes Operatius - esteban/rese
+esteban/rese
 
 ## Descripció 
-Aquest repositori conté l’essència dels sistemes Operatius de 1r DAM
+Pingo
 
 ## Contingut 
 - Tema 1: Introducció a Linux 
